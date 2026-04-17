@@ -1,14 +1,5 @@
 function Contact() {
     return (
-        // <section>
-        //     <h2>Contactame</h2>
-        //     <p>¿Trabajamos juntos? Escribeme Oe</p>
-        //     <button>
-        //         <a href="https://wa.link/t4u0tf">
-        //             Contactar
-        //         </a>
-        //     </button>
-        // </section>
 
         <div class="bg-dark text-secondary px-4 py-5 my-5 text-center">
             <div class="py-5">
